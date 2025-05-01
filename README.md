@@ -23,8 +23,6 @@ Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As ve
 
 🐋 **Docker** (Aprendendo)
 
-☁ **Nuvem**: Digital Ocean e AWS.
-
 🌐 **Servidores Web**: Nginx e Apache.
 
 💻 **Linguagens de Programação**: 
