@@ -26,7 +26,7 @@ Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As ve
 🌐 **Servidores Web**: Nginx e Apache.
 
 💻 **Linguagens de Programação**: 
-* Para servidores web: Golang
+* Para desenvolvimento backend: Golang
 * Administração de Sistema: Shell Script
 * Automação Industrial: Ladder
 * Estudo Acadêmico: LISP
