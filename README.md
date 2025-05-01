@@ -21,8 +21,6 @@ Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As ve
 ## 🛠 Habilidades
 🐧**Linux**:  Debian, Archlinux e Slackware.
 
-🪟 **Windows**: Windows Server (Aprendendo)
-
 🐋 **Docker** (Aprendendo)
 
 ☁ **Nuvem**: Digital Ocean e AWS.
