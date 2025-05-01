@@ -18,8 +18,6 @@
 Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As vezes, eu quebro uns galhos no backend. 
 
 
-
-
 ## 🛠 Habilidades
 🐧**Linux**:  Debian, Archlinux e Slackware.
 
@@ -31,7 +29,11 @@ Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As ve
 
 🌐 **Servidores Web**: Nginx e Apache.
 
-💻 **Linguagens de Programação**: Golang, C, Javascript, Shell Script e Ladder
+💻 **Linguagens de Programação**: 
+* Para servidores web: Golang
+* Administração de Sistema: Shell Script
+* Automação Industrial: Ladder
+* Estudo Acadêmico: LISP
 
 🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes de computadores.
 
