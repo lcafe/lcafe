@@ -29,7 +29,7 @@ Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As ve
 * Para desenvolvimento backend: Golang
 * Administração de Sistema: Shell Script
 * Automação Industrial: Ladder
-* Estudo Acadêmico: LISP
+* Estudo Acadêmico: Common Lisp
 
 🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes de computadores.
 
