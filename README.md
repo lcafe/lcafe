@@ -15,21 +15,47 @@
 ```
 
 ## 🚀 Sobre mim
-Eu sou um entusiasta nos assuntos de administração de sistemas e devops. As vezes, eu quebro uns galhos no backend. 
-
+Sou estudante de Análise e Desenvolvimento de Sistemas (tecnólogo) na PUCPR, entusiasta em administração de sistemas e DevOps. Eventualmente desenvolvo projetos em WebDev, principalmente no backend.
 
 ## 🛠 Habilidades
-🐧**Linux**:  Debian, Archlinux e Slackware.
 
-🐋 **Docker** (Aprendendo)
+🐧 **Linux**
+- Uso pessoal: Arch Linux
+- Servidores: Slackware e Debian
 
-🌐 **Servidores Web**: Nginx e Apache.
+🐋 **Docker** (aprendendo)
 
-💻 **Linguagens de Programação**: 
-* Para desenvolvimento backend: Golang
-* Administração de Sistema: Shell Script
-* Automação Industrial: Ladder
-* Estudo Acadêmico: Common Lisp
+🌐 **Servidores Web**: Nginx e Apache
 
-🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes de computadores.
+💻 **Linguagens de Programação**
+- Desenvolvimento: Golang
+- Administração de Sistemas: Shell Script
+- Automação Industrial: Ladder
+- Estudo Acadêmico: Common Lisp
+- Atualmente estudando OCaml
 
+🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes
+
+---
+
+## 🚀 About me
+I'm a student of "Análise e Desenvolvimento de Sistemas" at PUCPR, a Brazilian associate degree focused on Information Systems and Software Development (similar to an Information Systems Associate Degree). I'm passionate about system administration and DevOps. Occasionally, I work on WebDev projects, mostly focused on backend development.
+
+## 🛠 Skills
+
+🐧 **Linux**
+- Personal use: Arch Linux
+- Servers: Slackware and Debian
+
+🐋 **Docker** (learning)
+
+🌐 **Web Servers**: Nginx and Apache
+
+💻 **Programming Languages**
+- Development: Golang
+- System Administration: Shell Script
+- Industrial Automation: Ladder
+- Academic Study: Common Lisp
+- Currently studying OCaml
+
+🛜 **Network Infrastructure**: Structured cabling and network configuration
