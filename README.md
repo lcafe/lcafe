@@ -31,8 +31,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (tecnólogo) na PUCPR, e
 - Desenvolvimento: Python
 - Administração de Sistemas: Shell Script
 - Automação Industrial: Ladder
-- Estudo Acadêmico: Common Lisp
-- Atualmente estudando OCaml
 
 🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes
 
@@ -55,7 +53,5 @@ I'm a student of "Análise e Desenvolvimento de Sistemas" at PUCPR, a Brazilian 
 - Development: Python
 - System Administration: Shell Script
 - Industrial Automation: Ladder
-- Academic Study: Common Lisp
-- Currently studying OCaml
 
 🛜 **Network Infrastructure**: Structured cabling and network configuration
