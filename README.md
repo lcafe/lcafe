@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (tecnólogo) na PUCPR, e
 🌐 **Servidores Web**: Nginx e Apache
 
 💻 **Linguagens de Programação**
-- Desenvolvimento: Golang
+- Desenvolvimento: Python
 - Administração de Sistemas: Shell Script
 - Automação Industrial: Ladder
 - Estudo Acadêmico: Common Lisp
@@ -52,7 +52,7 @@ I'm a student of "Análise e Desenvolvimento de Sistemas" at PUCPR, a Brazilian 
 🌐 **Web Servers**: Nginx and Apache
 
 💻 **Programming Languages**
-- Development: Golang
+- Development: Python
 - System Administration: Shell Script
 - Industrial Automation: Ladder
 - Academic Study: Common Lisp
