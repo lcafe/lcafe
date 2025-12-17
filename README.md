@@ -28,9 +28,11 @@ Sou estudante de Engenharia elétrica, entusiasta em administração de sistemas
 🌐 **Servidores Web**: Nginx e Apache
 
 💻 **Linguagens de Programação**
-- Desenvolvimento: Python
-- Administração de Sistemas: Shell Script
-- Automação Industrial: Ladder
+
+- **Golang** — backend e APIs  
+- **Python** — automação e ferramentas  
+- **Shell Script (Bash)** — administração de sistemas  
+- **Ladder** — automação industrial (CLPs)
 
 🛜 **Infraestrutura de Redes**: Cabeamento estruturado e configuração de redes
 
@@ -49,9 +51,11 @@ I'm an Electrical Engineering student passionate about system administration and
 
 🌐 **Web Servers**: Nginx and Apache
 
-💻 **Programming Languages**
-- Development: Python
-- System Administration: Shell Script
-- Industrial Automation: Ladder
+### 💻 Programming Languages
+
+- **Golang** — backend services and APIs  
+- **Python** — automation and tooling  
+- **Shell Script (Bash)** — system administration  
+- **Ladder** — industrial automation (PLC)
 
 🛜 **Network Infrastructure**: Structured cabling and network configuration
