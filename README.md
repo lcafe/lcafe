@@ -51,7 +51,7 @@ I'm an Electrical Engineering student passionate about system administration and
 
 🌐 **Web Servers**: Nginx and Apache
 
-### 💻 Programming Languages
+💻 **Programming Languages**
 
 - **Golang** — backend services and APIs  
 - **Python** — automation and tooling  
