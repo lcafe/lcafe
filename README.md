@@ -15,7 +15,7 @@
 ```
 
 ## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (tecnólogo) na PUCPR, entusiasta em administração de sistemas e DevOps. Eventualmente desenvolvo projetos em WebDev, principalmente no backend.
+Sou estudante de Engenharia elétrica, entusiasta em administração de sistemas e DevOps. Eventualmente desenvolvo projetos em WebDev, principalmente no backend.
 
 ## 🛠 Habilidades
 
@@ -37,7 +37,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (tecnólogo) na PUCPR, e
 ---
 
 ## 🚀 About me
-I'm a student of "Análise e Desenvolvimento de Sistemas" at PUCPR, a Brazilian associate degree focused on Information Systems and Software Development (similar to an Information Systems Associate Degree). I'm passionate about system administration and DevOps. Occasionally, I work on WebDev projects, mostly focused on backend development.
+I'm a student of Eletrical Engineering, i'm passionate about system administration and DevOps. Occasionally, I work on WebDev projects, mostly focused on backend development.
 
 ## 🛠 Skills
 
