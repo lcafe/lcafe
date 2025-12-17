@@ -37,7 +37,7 @@ Sou estudante de Engenharia elétrica, entusiasta em administração de sistemas
 ---
 
 ## 🚀 About me
-I'm a student of Eletrical Engineering, i'm passionate about system administration and DevOps. Occasionally, I work on WebDev projects, mostly focused on backend development.
+I'm an Electrical Engineering student passionate about system administration and DevOps.. Occasionally, I work on WebDev projects, mostly focused on backend development.
 
 ## 🛠 Skills
 
